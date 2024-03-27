@@ -1,0 +1,22 @@
+.tweet {
+    border: 1px solid #ffa4d8
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px 0;
+    background-color: #ffffff; 
+  }
+  
+  .tweet h3 {
+    margin: 0 0 10px 0;
+    color: #ff1493; 
+  }
+  
+  .tweet p {
+    margin: 0 0 10px 0;
+    color: #333; 
+  }
+  
+  .tweet small {
+    color: #b19cd9; 
+  }
+  
